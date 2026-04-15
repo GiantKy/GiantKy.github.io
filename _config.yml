@@ -23,7 +23,7 @@ repository               : "GiantKy/GiantKy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/avatar GiantKy.jpg" # filename of avatar image placed in /images/ for author profile
+  avatar           : "avatar GiantKy.jpg" # filename of avatar image placed in /images/ for author profile
   name             : "Thái Gia Kỳ"
   pronouns         : # example: "she/her"  
   bio              : "IoT student who loves embedded systems and smart devices"
