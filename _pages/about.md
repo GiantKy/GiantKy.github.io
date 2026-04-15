@@ -7,9 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+This is the front page of my personal academic website.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My name is **GiantKy**. I am an IoT student passionate about embedded systems, smart devices, and real-world engineering applications.
+
+I am currently studying at **Post and Telecommunications Institute of Technology (PTIT), Ho Chi Minh City**.
+
+## Interests
+- Internet of Things (IoT)
+- Embedded Systems (Arduino, ESP32, Raspberry Pi)
+- Sensor systems and data acquisition
+- Smart home and automation projects
+
+## Projects
+I have worked on several Arduino-based projects such as:
+- Temperature monitoring system using LM35 sensor
+- Basic IoT data logging system
+- Serial communication between PC and microcontroller
+- Smart Locker 
+
+## Goals
+I aim to develop practical IoT systems that connect hardware and software to solve real-world problems, especially in smart agriculture and smart home automation.
+
+## Contact
+- Email: giaky0909@gmail.com  
+- GitHub: https://github.com/GiantKy
 
 A data-driven personal website
 ======
