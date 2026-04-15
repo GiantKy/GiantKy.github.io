@@ -35,7 +35,7 @@ redirect_from:
 # Projects
 ======
 
-## 🌡️ 1. Temperature Monitoring System (LM35)
+## 1. Temperature Monitoring System (LM35)
 - Used LM35 sensor with Arduino UNO  
 - Read analog temperature values via ADC  
 - Display data via Serial Monitor  
@@ -43,14 +43,14 @@ redirect_from:
 
 ---
 
-## 📡 2. Basic IoT Data Logging System
+## 2. Basic IoT Data Logging System
 - Collect sensor data from Arduino  
 - Send data to PC via serial communication  
 - Store and analyze data for monitoring  
 
 ---
 
-## 🔌 3. Embedded System Practice Projects
+## 3. Embedded System Practice Projects
 - LED control system  
 - Button interrupt handling  
 - PWM motor control basics  
