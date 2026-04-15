@@ -46,8 +46,7 @@ It reads analog temperature values and displays them via Serial Monitor.
 ---
 
 ## Source Code
-GitHub Repository:  
-https://github.com/GiantKy/Arduino_LM35_TempMonitor
+GitHub Repository:  https://github.com/GiantKy/Arduino_LM35_TempMonitor
 
 ---
 
